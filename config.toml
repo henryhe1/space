@@ -1,0 +1,40 @@
+baseURL = "http://henryhe.me/space/"
+languageCode = "en-us"
+title = "keep me where the light is"
+theme = "natrium"
+preserveTaxonomyNames = true
+rssLimit = 10
+paginate = 10
+pygmentsCodefences = true
+pygmentsStyle = "native"
+
+[taxonomies]
+    category = "categories"  
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = -110
+    
+[[menu.main]]
+    name = "tags"
+    url = "/tags"
+    weight = -120
+
+[[menu.main]]
+    name = "categories"
+    url = "/categories"
+    weight = -130
+
+ [[menu.main]]
+    name = "posts"
+    url = "/"
+    weight = -140
+
+
+
