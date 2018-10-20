@@ -9,6 +9,7 @@ pygmentsCodefences = true
 pygmentsStyle = "native"
 publishDir = "docs"
 googleAnalytics = "UA-127793104-1"
+disqusShortname = "spaceblog-1"
 
 [taxonomies]
     category = "categories"  
