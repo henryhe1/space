@@ -8,6 +8,7 @@ paginate = 10
 pygmentsCodefences = true
 pygmentsStyle = "native"
 publishDir = "docs"
+googleAnalytics = "UA-127793104-1"
 
 [taxonomies]
     category = "categories"  
