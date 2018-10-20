@@ -1,11 +1,12 @@
 ---
-title: "7 Tips for Starting Med School"
-date:  2018-10-20
+title: "Test"
+date: 2018-10-20T02:41:35-04:00
 draft: false
-slug: "7-tips-on-starting-med-school"
-categories: [ "listicle", "med_school" ]
-tags: [ "advice"]
 ---
+
+
+TEST
+
 
 ...#7 changed my LIFE!! Lol
 
@@ -30,7 +31,3 @@ And that’s it! I’ll probably be coming back to some of these points in futur
 8. ZOOM OUT. During tutorials, it’s easy to get caught up in the details of the cases, such as inflammation pathways or complex flow equations. We are often encouraged to “remember the big picture” of the clinical picture, because truthfully that’s probably the part we will retain after med school and beyond. As long as we can achieve a high-level understanding, the details will always be available a quick database search away. Similarly it’s important to zoom out in your personal life. Yes, med school may seem all consuming and an upcoming test might seem like it will make or break your medical career and you’ll think you’ll never be a good doctor. A point: we are the 50th class, which means there have been 49 classes before us, and there will be many many more classes after us. We are a point on the timeline, a class photo in the hallway of class photos, a blue dot in the universe. We will make terrible mistakes, and we will celebrate amazing successes. As one of the regional campus directors said during orientation, we get to be the first person in the world to look into the eyes of a baby, and the last person to look into the eyes of a patient leaving this Earth. This life is ephemeral so try to ground yourself. Ride, don’t fight, the waves of life and relish in the ocean mist. You are exactly where you need to be right now, so make the most of it. 
 
 <div style="text-align: center; padding: 5%;"> 🌊 </div>
-
-
-
-
