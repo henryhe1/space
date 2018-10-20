@@ -1,6 +1,6 @@
 ---
 title: "7 Tips for Starting Med School"
-date:  2018-10-19T22:17:38-04:00
+date:  2018-10-20
 draft: false
 slug: "7-tips-on-starting-med-school"
 categories: [ "listicle", "med_school" ]
