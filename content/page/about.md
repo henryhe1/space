@@ -10,6 +10,8 @@ Hello internet wanderer. The idea of a static blog was inspired by my good frien
 
 This blog is built on Hugo, and on an amazing theme called [Natrium](https://themes.gohugo.io/hugo-natrium-theme/). I chose it because of its simplicity as well as the ability to sort by tags and categories. In the future I'd like to implement a search feature as well as analytics and Disqus commenting. 
 
+The font used is [Nunito](https://fonts.google.com/specimen/Nunito).
+
 
 ### main site / contact
 [henryhe.me](http://henryhe.me) / hello.[myname]@gmail.com
