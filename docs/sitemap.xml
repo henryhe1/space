@@ -46,12 +46,6 @@
   </url>
   
   <url>
-    <loc>http://henryhe.me/space/</loc>
-    <lastmod>2018-10-19T22:17:38-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://henryhe.me/space/categories/listicle/</loc>
     <lastmod>2018-10-19T22:17:38-04:00</lastmod>
     <priority>0</priority>
@@ -59,6 +53,12 @@
   
   <url>
     <loc>http://henryhe.me/space/categories/med_school/</loc>
+    <lastmod>2018-10-19T22:17:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://henryhe.me/space/</loc>
     <lastmod>2018-10-19T22:17:38-04:00</lastmod>
     <priority>0</priority>
   </url>
