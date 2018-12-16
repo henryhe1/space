@@ -13,8 +13,8 @@ This blog is built on Hugo, and on an amazing theme called [Natrium](https://the
 The font I chose was [Nunito](https://fonts.google.com/specimen/Nunito).
 
 
-### main site / contact
-[henryhe.me](http://henryhe.me) / hello.[myname]@gmail.com
+### main site / contact / socials
+[henryhe.me](http://henryhe.me) / hello.henryhe[at]gmail.com / IG: @henryhe_
 
 
 <div style="color:red; text-align: center; padding: 5%;"> &hearts; </div>
